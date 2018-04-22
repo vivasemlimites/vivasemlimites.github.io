@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Viva Sem Limites",
-    "currentPage": "vivasemlimites.html",
+    "currentPage": ".html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 23,
     "versionPublish": "4.7.1",
@@ -492,7 +492,7 @@
         }
       ]
     },
-    "vivasemlimites.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "Viva Sem Limites",
